@@ -1,4 +1,4 @@
-FROM mweindel/apache-kudu:1.11.0
+FROM apache/kudu
 
 LABEL maintainer="martin.weindel@gmail.com"
 
